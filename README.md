@@ -1,2 +1,2 @@
-# unab-misiontic-test-ciclo-2
-Repo for unab mision tic program in Java
+# sales-manager
+sales management project created for challenge 5 of MisionTIC 2021
